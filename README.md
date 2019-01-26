@@ -3,7 +3,7 @@ IOS app that creates Mems from photo libarary or camera and enable the user to s
 
 ## How to run
 * Download or clone repo 
-* open PitchPerfect.xcodeproj file
+* open MemeMe V1.xcodeproj file
 * run
 
 ## Screen Shots
